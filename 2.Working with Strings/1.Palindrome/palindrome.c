@@ -20,7 +20,7 @@ x++;
 }
 reverse[x] = '\0'; //  Terminate the reversed string with a null character
 
-//Conpare the two strings using the standard string library function 'strcmp'. The function retuns true if both strings are equal
+//Conpare the two strings using the standard string library function 'strcmp'. The function retuns 0 if both strings are equal
 if (strcmp(string,reverse)==0){
     printf("The entered string is a palindrome\n"); // Print result
 }
