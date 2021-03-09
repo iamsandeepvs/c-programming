@@ -8,7 +8,7 @@ int i;
 int x = 0; //Variable to store the index of reversed string
 
 printf("Enter the string\n");   //Take input from user
-scanf("%s",&string);
+scanf("%s",string);
 
 int n = strlen(string);  //Find the length of the entered string using standard string library function
 printf("The length of the entered string is %d\n",n); 
