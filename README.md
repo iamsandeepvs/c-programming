@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> b6edf0e6913c0988465c4052d9d4334634307a5f
+Working through some C programming exercises.
